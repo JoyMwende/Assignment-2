@@ -17,7 +17,7 @@
             <label>Second Number:</label>
             <input type="text" name="num2Inserted">
             <label>Operator:</label>
-            <select name="calInserted">
+            <select name="operatorAdded">
                 <option value="add">Add</option>
                 <option value="subtract">Subtract</option>
                 <option value="multiply">Multiply</option>
